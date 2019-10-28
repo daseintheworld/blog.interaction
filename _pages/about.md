@@ -3,6 +3,22 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+저쪽 세상과 만날 수 있게 해주는 *Device*들에 헌정하는 웹사이트.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+컴퓨터 앞에 앉으면 논리를 블록 삼아 쌓은 저쪽의 세상을 만날 수 있다. 현실에 비해 명쾌하고 단순해 보이고 그래서 언제나 매력적으로 느껴지는 공간. 특히나 프로그래머에게는 사실상 이쪽 *dasein*의 세계와 저쪽 *logic gate*의 세계가 존재하는 전부라고 느껴질 때가 있다.
+
+하지만 그것은 겉으로만 명쾌할 뿐 *matter of concentration*의 오만한 생각이었다. 어느 순간 두 세계 사이에서 침범해온 손가락 통증 때문에 고생해보니 이 몸의 감각과 고통이 그야말로 내게 *matter of concerns*이었다. 이처럼 우리는 현실감을 환기시키는 일이 일어날 때마다 끊임 없는 분리감을 느낄 수 밖에 없다.
+
+이를 뼈저리게 인지하고부터 적극적으로 시간을 내어 컴퓨터와의 *interfacing*을 수월하게 만들려 노력해왔다. 여러 디바이스, 키보드,  마우스, 모니터, 랩탑, 그 외 소프트웨어들을 기웃거리며 돌아보았고, 그 결과 receiver와 sender 즉 눈과 손을 최대한 보호하는 아이디어가 예상보다 더 무궁무진하다는 것을 알게 되었다. 이 활동이 geek하다고 표현하는 사람들도 있으나 과한 찬사(?)이다. 그저 하루하루 살아남기 위한 몸부림을 치다보니 조금씩 컨텐츠가 아주 조금 모였을 뿐이다.
+
+재밌는 것은 이 과정을 거치며 또다른 고찰이 떠오르게 된다는 것이다. 
+
+***과연 나는 단순히 독립적으로 존재하는 '여기'와 '저기' 세계를 수월하게 잇는 작업만을 하고 있는 것인가?***
+
+고찰을 해볼 겸,  
+컨텐츠들을 기록할 겸,  
+다른 사람들과 공유할 겸   
+살살살 포스팅 해본다.
+
+
+

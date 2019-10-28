@@ -1,9 +1,23 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Documents"
+    url: /docs/introduction/
+  - title: "Posts"
+    url: /posts/
+  - title: "Subjects"
+    url: /subjects/
+  # - title: "Tags"
+  #   url: /tags/
+
+  # documentation links
+docs:
+  - title: Intro
+    children:
+      - title: "Game Pain"
+        url: /docs/introduction/
+  - title: Alternatives
+  - title: Touchpad
+  - title: Keyboard
+  - title: Keyboard - Preonic
+    
