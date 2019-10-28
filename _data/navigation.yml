@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Documents"
-    url: /docs/introduction/
+    url: /docs/intro/game-pain/
   - title: "Posts"
     url: /posts/
   - title: "Subjects"
@@ -15,7 +15,9 @@ docs:
   - title: Intro
     children:
       - title: "Game Pain"
-        url: /docs/introduction/
+        url: /docs/intro/game-pain/
+      - title: "test"
+        url: /docs/test/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard
