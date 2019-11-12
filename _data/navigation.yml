@@ -16,10 +16,10 @@ docs:
     children:
       - title: "Game Pain"
         url: /docs/intro/game-pain/
-      - title: "test"
-        url: /docs/test/
+      - title: "Life as journey"
+        url: /docs/intro/journey/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard
   - title: Keyboard - Preonic
-    
+
