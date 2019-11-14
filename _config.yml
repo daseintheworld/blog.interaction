@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Dasein
+title: A Dasein and interaction
 email: daseintheworld@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   to be descripted for google search. included in header
@@ -24,7 +24,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dark  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Outputting
 permalink: /:categories/:title/
 paginate: 3 # amount of posts to show
@@ -97,10 +97,11 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: false
-      share: true
+      share: false
       related: true
+      toc: true
       sidebar:
         nav: "docs"
   # _posts

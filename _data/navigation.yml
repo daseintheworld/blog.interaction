@@ -18,8 +18,13 @@ docs:
         url: /docs/intro/game-pain/
       - title: "Life as journey"
         url: /docs/intro/journey/
+  - title: Preonic(Keyboard)
+    children:
+        - title: "preonic 프로젝트"
+          url: /docs/preonic/project/
+        - title: "preonic 언박싱, 조립"
+          url: /docs/preonic/assembly/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard
-  - title: Keyboard - Preonic
 
