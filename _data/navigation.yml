@@ -16,14 +16,22 @@ docs:
     children:
       - title: "Game Pain"
         url: /docs/intro/game-pain/
-      - title: "Life as journey"
+      - title: "Interactive Journey"
         url: /docs/intro/journey/
   - title: Preonic(Keyboard)
     children:
-        - title: "preonic 프로젝트"
-          url: /docs/preonic/project/
-        - title: "preonic 언박싱, 조립"
+        - title: "olkb project"
+          url: /docs/preonic/olkb/
+        - title: "preonic keyboard"
+          url: /docs/preonic/intro/
+        - title: "preonic unboxing"
           url: /docs/preonic/assembly/
+        - title: "qmk project"
+          url: /docs/preonic/qmk/
+        - title: "qmk setting1"
+          url: /docs/preonic/qmk-setting/
+        - title: "qmk setting2"
+          url: /docs/preonic/qmk-setting/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard
