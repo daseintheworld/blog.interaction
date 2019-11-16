@@ -29,9 +29,9 @@ docs:
         - title: "qmk project"
           url: /docs/preonic/qmk/
         - title: "qmk setting1"
-          url: /docs/preonic/qmk-setting/
+          url: /docs/preonic/qmk-setting1/
         - title: "qmk setting2"
-          url: /docs/preonic/qmk-setting/
+          url: /docs/preonic/qmk-setting2/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard
