@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Dasein and interaction
+title: A Dasein and Interaction
 email: daseintheworld@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   to be descripted for google search. included in header
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sum Park"
+  name   : "Sein Park (박기범)"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Software Engineer, Lazy Enthusiast, Dasein in this world"
+  bio    : "Software Engineer, Lazy Enthusiast, another dasein in this world"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

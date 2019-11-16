@@ -20,7 +20,7 @@ docs:
         url: /docs/intro/journey/
   - title: Preonic(Keyboard)
     children:
-        - title: "olkb project"
+        - title: "intro - olkb"
           url: /docs/preonic/olkb/
         - title: "preonic keyboard"
           url: /docs/preonic/intro/
