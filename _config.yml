@@ -88,7 +88,7 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path
-  
+
 defaults:
   # _docs
   - scope:
@@ -111,12 +111,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+    #   read_time: true
       comments: true
       share: true
       related: true
-      sidebar:
-        nav: "docs"
+    #   sidebar:
+    #     nav: "docs"
   # _pages
   - scope:
       path: ""
@@ -124,7 +124,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
 
 # subject_archive:
 #   type: liquid
