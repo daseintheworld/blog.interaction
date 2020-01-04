@@ -47,14 +47,7 @@ classes: default
 <br> 또 의지만 있다면 레이아웃이 바뀌어도 금방 적응이 된다는 것을 알게 되었다.
 <br> 그러다보니 해피해킹의 장점을 결합해서 나만의 레이아웃을 만들었다.
 <br> 일하다가도 비효율적인 포인트가 발견되면 계속 바꾸고 있다.
-<br><br>현재 레이아웃은 아래와 같다.
-<br><br>![](https://user-images.githubusercontent.com/55048882/68987674-0c5c7780-086f-11ea-9a8a-d68a5db15c8c.png){:height="320px" width="500px"}
-<br>기본
-<br><br>![](https://user-images.githubusercontent.com/55048882/68987681-1ed6b100-086f-11ea-8587-d90c6c9f7965.png){:height="320px" width="500px"}
-<br>lower를 누르고 있을 때
-<br><br>![](https://user-images.githubusercontent.com/55048882/68987684-29914600-086f-11ea-911f-67a5135d6a06.png){:height="320px" width="500px"}
-<br>raise를 누르고 있을 때
-<br><br>그 외 레이아웃은 틈날 때마다 다른 방식을 탐구하고 있고
+<br><br>그 외 DVORAK과 같은 레이아웃은 틈날 때마다 다른 방식을 탐구하고 있고
 <br>또다른 주제가 될 수 있으리라 생각하고 있다.
 * **작은 크기**
 <br>전용 sleeve가 필통수준으로 작다.

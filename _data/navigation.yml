@@ -32,6 +32,8 @@ docs:
           url: /docs/preonic/qmk-setting1/
         - title: "qmk setting2"
           url: /docs/preonic/qmk-setting2/
+        - title: "layout-win10"
+          url: /docs/preonic/layout-win10/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard
