@@ -28,12 +28,16 @@ docs:
           url: /docs/preonic/assembly/
         - title: "qmk project"
           url: /docs/preonic/qmk/
-        - title: "qmk setting1"
-          url: /docs/preonic/qmk-setting1/
-        - title: "qmk setting2"
-          url: /docs/preonic/qmk-setting2/
         - title: "layout-win10"
           url: /docs/preonic/layout-win10/
+  - title: Centromere(Keyboard)
+    children:
+        - title: "centromere keyboard"
+          url: /docs/centromere/intro/
+        - title: "centromere unboxing"
+          url: /docs/centromere/assembly/
+        - title: "centromere flashing"
+          url: /docs/centromere/qmk/
   - title: Alternatives
   - title: Touchpad
   - title: Keyboard

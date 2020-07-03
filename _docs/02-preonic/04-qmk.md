@@ -1,5 +1,5 @@
 ---
-title: "Qmk project"
+title: "Qmk project(win)"
 permalink: /docs/preonic/qmk/
 excerpt: ""
 last_modified_at: 2019-11-15T09:00:00
